@@ -1,5 +1,5 @@
-# Dự án tính toán và phân tích điểm thi
-Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm tự động cho các bài thi.
+# Chương trình tính toán và phân tích điểm thi
+Mục đích của ứng dụng này để chấm điểm tự động cho các bài thi, giúp giảm thiểu thời gian chấm điểm
 
 ### 1. Các tính năng của ứng dụng:
 
@@ -8,7 +8,7 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
 - Chấm điểm từng bài thi dựa trên tiêu chí đánh giá (rubric) được cung cấp và báo cáo
 - Tạo tập tin kết quả được đặt tên thích hợp
 
- ### 2. Tiêu chí chấm điểm
+ ### 2. Tiêu chí tính toán điểm thi:
 - Chương trình chỉ tính điểm với những câu trả lời có định dạng hợp lệ tương tự như sau: N12345678,B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D
   + Chứa danh sách 26 giá trị được phân tách bằng dấu phẩy.
   + N# cho một học sinh là mục đầu tiên trên dòng. Nó phải chứa ký tự “N” theo sau là 8 ký tự số
