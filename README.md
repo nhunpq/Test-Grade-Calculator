@@ -13,7 +13,7 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
   + Chứa danh sách 26 giá trị được phân tách bằng dấu phẩy.
   + N# cho một học sinh là mục đầu tiên trên dòng. Nó phải chứa ký tự “N” theo sau là 8 ký tự số
     
-- Chương trình sử dụng answer_key = "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D" này để tính điểm cho mỗi dòng dữ liệu hợp lệ. Điểm có thể được tính như sau:
+- Chương trình sử dụng answer_key = "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D" để tính điểm cho mỗi dòng dữ liệu hợp lệ. Điểm có thể được tính như sau:
   + 4 điểm cho mỗi câu trả lời đúng
   + 0 điểm cho mỗi câu trả lời bị bỏ qua
   + -1 điểm cho mỗi câu trả lời sai
