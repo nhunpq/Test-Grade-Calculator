@@ -1,7 +1,7 @@
 # Chương trình tính toán và phân tích điểm thi
 Mục đích của ứng dụng này để chấm điểm tự động cho các bài thi, giúp giảm thiểu thời gian chấm điểm
 
-### 1. Các tính năng của ứng dụng:
+### 1. Các tính năng của chương trình:
 
 - Mở các tập tin văn bản bên ngoài được yêu cầu với exception-handling
 - Quét từng dòng của câu trả lời bài thi để tìm dữ liệu hợp lệ và cung cấp báo cáo tương ứng
@@ -22,11 +22,11 @@ Mục đích của ứng dụng này để chấm điểm tự động cho các 
    Bạn cũng có thể chỉnh sửa nó để phù hợp với thực tế của mình tại phần cuối của mã code như hình bên dưới
    ![Screenshot 2024-06-03 204236](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/c3e16bd7-eecb-4ead-9aa7-f292fa72de2e)
   
-### 3. Hướng dẫn sử dụng:
+### 3. Hướng dẫn sử dụng chương trình:
 #### - Yêu cầu:
 
-- Phiên bản Python 3
 - Jupyter Notebook
+- Phiên bản Python 3
 
 #### - Bước 1: Chuẩn bị dữ liệu
 
@@ -34,10 +34,16 @@ Mục đích của ứng dụng này để chấm điểm tự động cho các 
 - Tất cả các tập tin đều cần ở định dạng .txt chuẩn để có thể sử dụng chính xác.
 
 #### - Bước 2: Chạy chương trình và xem kết quả
+1. Tải mã nguồn từ GitHub Repository
+2. Mở Jupyter Notebook hoặc môi trường phù hợp để chạy mã
+3. Chỉnh sửa answer_key nếu cần thiết
+4. Chạy chương trình
 - Sau khi chạy xong chương trình sẽ in báo cáo phân tích trên màn hình. Đây là một mẫu chạy chương trình cho tệp dữ liệu đầu tiên
  ![HINH](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/730738b2-0071-4576-903f-fc76fd3dc8f5)
 
 - Ngoài ra bạn sẽ có tập tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời
   ![Screenshot 2024-06-03 203639](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/2d4e7ca8-7b41-4bd5-bb2d-cfe66991dd2e)
+
+- Luôn đảm bảo rằng bạn đã thực hiện đúng các bước trên để chạy chương trình và kiểm tra kết quả chấm điểm của các học sinh.
 
 
