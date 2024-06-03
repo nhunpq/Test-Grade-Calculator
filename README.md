@@ -30,7 +30,7 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
 
 #### Bước 2: Chạy chương trình và xem kết quả
 - Sau khi chạy xong chương trình sẽ in báo cáo phân tích trên màn hình. Đây là một mẫu chạy chương trình cho tệp dữ liệu đầu tiên
-  ![HINH](https://github.com/nhunpq/Du-An-Tinh-Toan-Va-Phan-Tich-Diem-Thi-Test-Grade-Calculator-/assets/168920556/cc571f84-c150-4362-97bd-dafcf07cbf6b)
+ ![HINH](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/730738b2-0071-4576-903f-fc76fd3dc8f5)
 
 - Ngoài ra bạn sẽ có tập tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời.
 
