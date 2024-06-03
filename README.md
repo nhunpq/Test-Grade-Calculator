@@ -1,12 +1,12 @@
 # Chương trình tính toán và phân tích điểm thi
-Mục đích của ứng dụng này để chấm điểm tự động cho các bài thi, giúp giảm thiểu thời gian chấm điểm
+Mục đích của ứng dụng này để chấm điểm tự động cho các bài thi, giúp giảm thiểu thời gian chấm điểm thi.
 
 ### 1. Các tính năng của chương trình:
 
-- Mở các tập tin văn bản bên ngoài được yêu cầu với exception-handling
+- Mở các tệp tin văn bản bên ngoài và in thông báo xác nhận sự tồn tại của tệp
 - Quét từng dòng của câu trả lời bài thi để tìm dữ liệu hợp lệ và cung cấp báo cáo tương ứng
 - Chấm điểm từng bài thi dựa trên tiêu chí đánh giá (rubric) được cung cấp và báo cáo
-- Tạo tập tin kết quả được đặt tên thích hợp
+- Tạo tập tin kết quả
 
  ### 2. Tiêu chí tính toán điểm thi:
 - Chương trình chỉ tính điểm với những câu trả lời có định dạng hợp lệ tương tự như sau: N12345678,B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D
@@ -30,20 +30,20 @@ Mục đích của ứng dụng này để chấm điểm tự động cho các 
 
 #### - Bước 1: Chuẩn bị dữ liệu
 
-- Đảm bảo bạn đã chuẩn bị tập tin dữ liệu câu trả lời của học sinh.
-- Tất cả các tập tin đều cần ở định dạng .txt chuẩn để có thể sử dụng chính xác.
+- Chuẩn bị tệp tin dữ liệu câu trả lời của sinh viên
+- Tất cả các tệp tin đều cần ở định dạng .txt chuẩn để có thể sử dụng chính xác.
 
 #### - Bước 2: Chạy chương trình và xem kết quả
-1. Tải mã nguồn từ GitHub Repository
-2. Mở Jupyter Notebook hoặc môi trường phù hợp để chạy mã
+1. Tải mã nguồn từ GitHub Repository. Đảm bảo tệp mã nguồn của bạn nằm trong cùng thư mục với tệp dữ liệu câu trả lời của sinh viên
+2. Mở Jupyter Notebook để chạy mã
 3. Chỉnh sửa answer_key nếu cần thiết
-4. Chạy chương trình
-- Sau khi chạy xong chương trình sẽ in báo cáo phân tích trên màn hình. Đây là một mẫu chạy chương trình cho tệp dữ liệu đầu tiên
+4. Chạy chương trình và xem kết quả:
+- Sau khi chạy xong, chương trình sẽ in báo cáo phân tích trên màn hình. Đây là một mẫu chạy chương trình cho tệp dữ liệu đầu tiên
  ![HINH](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/730738b2-0071-4576-903f-fc76fd3dc8f5)
 
-- Ngoài ra bạn sẽ có tập tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời
+- Ngoài ra bạn sẽ có tệp tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời
   ![Screenshot 2024-06-03 203639](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/2d4e7ca8-7b41-4bd5-bb2d-cfe66991dd2e)
 
-- Luôn đảm bảo rằng bạn đã thực hiện đúng các bước trên để chạy chương trình và kiểm tra kết quả chấm điểm của các học sinh.
+- Luôn đảm bảo rằng bạn đã thực hiện đúng các bước trên để chạy chương trình và kiểm tra kết quả chấm điểm của các sinh viên.
 
 
