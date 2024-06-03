@@ -18,7 +18,7 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
   + 0 điểm cho mỗi câu trả lời bị bỏ qua
   + -1 điểm cho mỗi câu trả lời sai
  
- - Answer_key của chương trinh hiện tại là "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D".
+ - Answer_key của chương trình hiện tại là "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D".
    Bạn cũng có thể chỉnh sửa nó để phù hợp với thực tế của mình tại phần cuối của mã code như hình bên dưới
    ![Screenshot 2024-06-03 204236](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/c3e16bd7-eecb-4ead-9aa7-f292fa72de2e)
   
