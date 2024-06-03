@@ -21,7 +21,8 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
 ### 3. Hướng dẫn sử dụng:
 #### - Yêu cầu:
 
-- Phiên bản Python 3.9
+- Phiên bản Python 3
+- Jupyter Notebook
 
 #### - Bước 1: Chuẩn bị dữ liệu
 
