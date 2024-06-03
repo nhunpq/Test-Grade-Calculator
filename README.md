@@ -13,10 +13,14 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
   + Chứa danh sách 26 giá trị được phân tách bằng dấu phẩy.
   + N# cho một học sinh là mục đầu tiên trên dòng. Nó phải chứa ký tự “N” theo sau là 8 ký tự số
     
-- Chương trình sử dụng answer_key = "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D" để tính điểm cho mỗi dòng dữ liệu hợp lệ. Điểm có thể được tính như sau:
+- Chương trình sử dụng answer_key để tính điểm cho mỗi dòng dữ liệu hợp lệ. Điểm được tính như sau:
   + 4 điểm cho mỗi câu trả lời đúng
   + 0 điểm cho mỗi câu trả lời bị bỏ qua
   + -1 điểm cho mỗi câu trả lời sai
+ 
+ - Answer_key của chương trinh hiện tại là "B,A,D,D,C,B,D,A,C,C,D,B,A,B,A,C,B,D,A,C,A,A,B,D,D".
+   Bạn cũng có thể chỉnh sửa nó để phù hợp với thực tế của mình tại phần cuối của mã code như hình bên dưới
+   ![Screenshot 2024-06-03 204236](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/c3e16bd7-eecb-4ead-9aa7-f292fa72de2e)
   
 ### 3. Hướng dẫn sử dụng:
 #### - Yêu cầu:
@@ -33,6 +37,7 @@ Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm 
 - Sau khi chạy xong chương trình sẽ in báo cáo phân tích trên màn hình. Đây là một mẫu chạy chương trình cho tệp dữ liệu đầu tiên
  ![HINH](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/730738b2-0071-4576-903f-fc76fd3dc8f5)
 
-- Ngoài ra bạn sẽ có tập tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời.
+- Ngoài ra bạn sẽ có tập tin kết quả chứa điểm thi của các học sinh của từng lớp học trong cùng thư mục với tập dữ liệu câu trả lời
+  ![Screenshot 2024-06-03 203639](https://github.com/nhunpq/Test-Grade-Calculator/assets/168920556/2d4e7ca8-7b41-4bd5-bb2d-cfe66991dd2e)
 
 
