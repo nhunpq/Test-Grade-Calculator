@@ -1,7 +1,7 @@
 # Dự án tính toán và phân tích điểm thi
 Dự án này nhằm mục đích xây dựng một ứng dụng chấm điểm tự động cho các bài thi.
 
-### 1. Ứng dụng có các tác vụ như sau:
+### 1. Các tính năng của ứng dụng:
 
 - Mở các tập tin văn bản bên ngoài được yêu cầu với exception-handling
 - Quét từng dòng của câu trả lời bài thi để tìm dữ liệu hợp lệ và cung cấp báo cáo tương ứng
